@@ -1,0 +1,8 @@
+name: hotepme
+kind: doctrine
+layer: soul
+owner_sister: sophia
+domain: sophia
+state: active
+purpose: The grade of meaning where a gift and the peace it brings are one event, not a price and its payout.
+dependsOn: [youspeak, me, maatme, qorbme]
